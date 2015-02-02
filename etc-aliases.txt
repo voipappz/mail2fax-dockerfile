@@ -1,0 +1,4 @@
+# See man 5 aliases for format
+postmaster: root
+root: mail2fax
+info: mail2fax
